@@ -1,15 +1,16 @@
-# 📊 Amazon Sales Data Dashboard 2025
+# 🏠 Property Dashboard5
 
-This repository contains a dynamic and interactive dashboard visualizing **Amazon Sales Data for the year 2025**. Built using Power BI, the dashboard offers insightful visualizations that help analyze sales performance, product trends, and customer behavior.
+A comprehensive and visually engaging Excel Dashboard designed to analyze and present key metrics related to property units, types, locations, quality, construction years, and parking availability. This dashboard is ideal for real estate analysts, property managers, and stakeholders to make informed decisions based on clear, actionable data insights.
 
 ![Property](https://github.com/user-attachments/assets/f84d34a5-406e-457c-8567-b55982fbc8f2)
 
 
-## 📌 Features & Insights
+## 📌 Features
 
-- 💰 **Total Sales:** $243.85K  
-- 📦 **Total Quantity Sold:** 714 Units  
-- 📈 **Average Order Value (AOV):** 85.9K
+- Fully interactive Excel-based dashboard
+- Clean, intuitive layout
+- Pie charts, bar graphs, and icons for better data visualization
+- Optimized for real estate decision-making
 
 ### 🎯 Key Dashboard Components:
 
