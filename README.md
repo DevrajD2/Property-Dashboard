@@ -1,17 +1,21 @@
-#🏠 Property Dashboard
-A comprehensive and visually engaging Excel Dashboard designed to analyze and present key metrics related to property units, types, locations, quality, construction years, and parking availability. This dashboard is ideal for real estate analysts, property managers, and stakeholders to make informed decisions based on clear, actionable data insights.
+# 📊 Amazon Sales Data Dashboard 2025
 
-![Property](https://github.com/user-attachments/assets/7260c88c-da49-4a5c-a6cf-f3fb8074ac8c)
+This repository contains a dynamic and interactive dashboard visualizing **Amazon Sales Data for the year 2025**. Built using Power BI, the dashboard offers insightful visualizations that help analyze sales performance, product trends, and customer behavior.
+
+![Property](https://github.com/user-attachments/assets/f84d34a5-406e-457c-8567-b55982fbc8f2)
 
 
-##✅ Features
--Fully interactive Excel-based dashboard
--Clean, intuitive layout
--Pie charts, bar graphs, and icons for better data visualization
--Optimized for real estate decision-making
+## 📌 Features & Insights
 
-###💡 Future Enhancements
--Add filters for dynamic user input
--Integrate pivot tables for deeper analysis
--Export options for PDF and reports
+- 💰 **Total Sales:** $243.85K  
+- 📦 **Total Quantity Sold:** 714 Units  
+- 📈 **Average Order Value (AOV):** 85.9K
+
+### 🎯 Key Dashboard Components:
+
+- **Sales by Product Category** (e.g., Refrigerator, Laptop, Smartphone)
+- **Sales by Region** (e.g., Miami, Denver, Houston)
+- **Sales by Month** (February, March, April)
+- **Top Sales Contributors by Name**
+- **Quantity Distribution by Payment Method**
 
