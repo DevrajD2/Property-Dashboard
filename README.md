@@ -1,4 +1,4 @@
-# 🏠 Property Dashboard5
+# 🏠 Property Dashboard
 
 A comprehensive and visually engaging Excel Dashboard designed to analyze and present key metrics related to property units, types, locations, quality, construction years, and parking availability. This dashboard is ideal for real estate analysts, property managers, and stakeholders to make informed decisions based on clear, actionable data insights.
 
@@ -12,11 +12,9 @@ A comprehensive and visually engaging Excel Dashboard designed to analyze and pr
 - Pie charts, bar graphs, and icons for better data visualization
 - Optimized for real estate decision-making
 
-### 🎯 Key Dashboard Components:
+### 💡 Future Enhancements
 
-- **Sales by Product Category** (e.g., Refrigerator, Laptop, Smartphone)
-- **Sales by Region** (e.g., Miami, Denver, Houston)
-- **Sales by Month** (February, March, April)
-- **Top Sales Contributors by Name**
-- **Quantity Distribution by Payment Method**
+- Add filters for dynamic user input
+- Integrate pivot tables for deeper analysis
+- Export options for PDF and reports
 
